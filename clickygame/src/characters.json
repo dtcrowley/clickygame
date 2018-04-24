@@ -1,74 +1,74 @@
 [
     {
         "id": 1,
-        "name": "Ricky Bobby",
-        // "image": 
-
+        "name": "Bulbasaur",
+        "image": "/images/0001.png",
+        "type": "Grass"
     },
     {
         "id": 2,
-        "name": "Ricky Bobby",
-        // "image": 
-        
+        "name": "Ivysaur",
+        "image": "/images/0002.png",
+        "type": "Grass"
     },
     {
         "id": 3,
-        "name": "Ricky Bobby",
-        // "image": 
-        
+        "name": "Venusaur",
+        "image": "/images/0003.png",
+        "type": "Grass"
     },
     {
         "id": 4,
-        "name": "Ricky Bobby",
-        // "image": 
-        
+        "name": "Charmander",
+        "image": "/images/0004.png",
+        "type": "Fire"
     },
     {
         "id": 5,
-        "name": "Ricky Bobby",
-        // "image": 
-        
+        "name": "Charmeleon",
+        "image": "/images/0005.png",
+        "type": "Fire"
     },
     {
         "id": 6,
-        "name": "Ricky Bobby",
-        // "image": 
-        
+        "name": "Charizard",
+        "image": "/images/0006.png",
+        "type": "Fire"        
     },
     {
         "id": 7,
-        "name": "Ricky Bobby",
-        // "image": 
-        
+        "name": "Squirtle",
+        "image": "/images/0007.png",
+        "type": "Water"
     },
     {
         "id": 8,
-        "name": "Ricky Bobby",
-        // "image": 
-        
+        "name": "Wartortle",
+        "image": "/images/0008.png",
+        "type": "Water"
     },
     {
         "id": 9,
-        "name": "Ricky Bobby",
-        // "image": 
-        
+        "name": "Blastoise",
+        "image": "/images/0009.png",
+        "type": "Water"
     },
     {
         "id": 10,
-        "name": "Ricky Bobby",
-        // "image": 
-        
+        "name": "Clefairy",
+        "image": "/images/0035.png",
+        "type": "Normal"
     },
     {
         "id": 11,
-        "name": "Ricky Bobby",
-        // "image": 
-        
+        "name": "Clefable",
+        "image": "/images/0036.png",
+        "type": "Normal"
     },
     {
         "id": 12,
-        "name": "Ricky Bobby",
-        // "image": 
-        
+        "name": "Jigglypuff",
+        "image": "/images/0039.png",
+        "type": "Normal"
     }
 ]
