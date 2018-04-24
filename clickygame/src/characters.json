@@ -3,72 +3,84 @@
         "id": 1,
         "name": "Bulbasaur",
         "image": "/images/0001.png",
-        "type": "Grass"
+        "type": "Grass",
+        "clicked": false
     },
     {
         "id": 2,
         "name": "Ivysaur",
         "image": "/images/0002.png",
-        "type": "Grass"
+        "type": "Grass",
+        "clicked": false
     },
     {
         "id": 3,
         "name": "Venusaur",
         "image": "/images/0003.png",
-        "type": "Grass"
+        "type": "Grass",
+        "clicked": false
     },
     {
         "id": 4,
         "name": "Charmander",
         "image": "/images/0004.png",
-        "type": "Fire"
+        "type": "Fire",
+        "clicked": false
     },
     {
         "id": 5,
         "name": "Charmeleon",
         "image": "/images/0005.png",
-        "type": "Fire"
+        "type": "Fire",
+        "clicked": false
     },
     {
         "id": 6,
         "name": "Charizard",
         "image": "/images/0006.png",
-        "type": "Fire"        
+        "type": "Fire",
+        "clicked": false        
     },
     {
         "id": 7,
         "name": "Squirtle",
         "image": "/images/0007.png",
-        "type": "Water"
+        "type": "Water",
+        "clicked": false
     },
     {
         "id": 8,
         "name": "Wartortle",
         "image": "/images/0008.png",
-        "type": "Water"
+        "type": "Water",
+        "clicked": false
     },
     {
         "id": 9,
         "name": "Blastoise",
         "image": "/images/0009.png",
-        "type": "Water"
+        "type": "Water",
+        "clicked": false
     },
     {
         "id": 10,
         "name": "Clefairy",
         "image": "/images/0035.png",
-        "type": "Normal"
+        "type": "Normal",
+        "clicked": false
     },
     {
         "id": 11,
         "name": "Clefable",
         "image": "/images/0036.png",
-        "type": "Normal"
+        "type": "Normal",
+        "clicked": false
     },
     {
         "id": 12,
         "name": "Jigglypuff",
         "image": "/images/0039.png",
-        "type": "Normal"
+        "type": "Normal",
+        "clicked": false
     }
 ]
